@@ -1,0 +1,28 @@
+.Calculator {
+    width: 100%;
+    max-width: 500px;
+    background-color: #333;
+    padding: 0.5rem;
+}
+
+.screen {
+    width: 100%;
+    font-size: 2rem;
+    text-align: right;
+    background-color: #444;
+    margin: 0 0 0.5rem;
+}
+
+.row {
+    width: 100%;
+}
+
+.col25 {
+    display: inline-block;
+    width: 25%;
+}
+
+.col50 {
+    display: inline-block;
+    width: 50%;
+}
